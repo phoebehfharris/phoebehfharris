@@ -1,4 +1,34 @@
-## Hi there 👋
+## Heya, I'm Phoebe Harris (She/Her)
+
+- 3rd Year Computer Science MSc at University of Bristol, England
+- R&D Intern at @NordicSemiconductor
+
+### About me
+
+I'm Phoebe, a UK-based Computer Science student and embedded programmer. 
+
+I enjoy a lot of different technical interests but I'm primarily into systems programming. In particular, I have experience in Rust, C programming, OS development, high-performance computing, embedded software.
+
+I'm on Committee as Technical Events Officer for my University's Computer Science Society, which is my second consecutive year to do so. 
+
+I'm very passionate about open-source software, and I'm basically angling for a job in either the Linux world,
+or in solutions that bring software that respects people into normal people's hands.
+If this sounds like you, hire me.
+
+Outside of software, I'm interested in the humanities, urbanism, martial arts, and fashion. 
+
+### Projects
+
+In university, I've just finished a [big](https://github.com/phoebehfharris/hpc-fluid) [project](https://github.com/phoebehfharris/mpi-fluid) on high-performance computing with C, OpenMP, and MPI. 
+
+In my free time, I'm currently doing bits of pieces of packaging work for Fedora Linux. 
+
+### Misc
+
+- You can email me at root@phoebeharris.xyz
+- You can message me on Matrix at @phoebeharris:fedora.im
+
+I like going to hacker culture events around Europe! I'll probably be at the 40th Chaos Communications Congress. Catch me there!
 
 <!--
 **phoebehfharris/phoebehfharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
