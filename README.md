@@ -11,7 +11,7 @@ I enjoy a lot of different technical interests but I'm primarily into systems pr
 
 I'm on Committee as Technical Events Officer for my University's Computer Science Society, which is my second consecutive year to do so. 
 
-I'm very passionate about open-source software, and I'm basically angling for a job in either the Linux world,or in solutions that bring software that respects people into normal people's hands. If this sounds like you, [hire me](phoebeharris.xyz/static/cv.pdf).
+I'm very passionate about open-source software, and I'm basically angling for a job in either the Linux world,or in solutions that bring software that respects people into normal people's hands. If this sounds like you, [hire me](https://phoebeharris.xyz/static/cv.pdf).
 
 Outside of software, I'm interested in the humanities, urbanism, martial arts, and fashion. 
 
