@@ -23,7 +23,7 @@ In my free time, I'm currently doing bits of pieces of packaging work for Fedora
 
 ### Misc
 
-- You can email me at (root@phoebeharris.xyz)[mailto:root@phoebeharris.xyz]
-- You can message me on Matrix at (@phoebeharris:fedora.im)[matrix:u/phoebeharris:fedora.im]
+- You can email me at [root@phoebeharris.xyz](mailto:root@phoebeharris.xyz)
+- You can message me on Matrix at [@phoebeharris:fedora.im](matrix:u/phoebeharris:fedora.im)
 
 I like going to hacker culture events around Europe! I'll probably be at the 40th Chaos Communications Congress. Catch me there!
