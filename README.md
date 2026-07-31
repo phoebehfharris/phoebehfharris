@@ -17,7 +17,7 @@ Outside of software, I'm interested in the humanities, urbanism, martial arts, a
 
 ### Projects
 
-In university, I've just finished a [big](https://github.com/phoebehfharris/hpc-fluid) [project](https://github.com/phoebehfharris/mpi-fluid) on high-performance computing with C, OpenMP, and MPI. 
+In university, I've just finished a [big](https://github.com/phoebehfharris/hpc-fluid) [project](https://github.com/phoebehfharris/mpi-fluid) on high-performance computing with C, OpenMP, and MPI. Other projects include a [software rasterizer and ray tracer written in C++](https://github.com/phoebehfharris/renderer), an [autobattler written with Godot that saves data to a MiFare card](https://github.com/gitguduob/atelier), a [toy compiler written in Zig](https://github.com/phoebehfharris/littlecomp), and a [custom Angular frontend to Discord done via a bot bridge](https://github.com/phoebehfharris/discordnoodle). 
 
 In my free time, I'm currently doing bits of pieces of packaging work for Fedora Linux. 
 
