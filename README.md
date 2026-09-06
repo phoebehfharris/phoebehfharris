@@ -1,7 +1,6 @@
 ## Heya, I'm Phoebe Harris (She/Her)
 
 - 3rd Year Computer Science MSc at University of Bristol, England
-- R&D Intern at @NordicSemiconductor
 
 ### About me
 
