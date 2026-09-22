@@ -1,6 +1,6 @@
 ## Heya, I'm Phoebe Harris (She/Her)
 
-- 3rd Year Computer Science MSc at University of Bristol, England
+- Fourth Year Computer Science MSc at University of Bristol, England
 
 ### About me
 
@@ -22,7 +22,7 @@ In my free time, I'm currently doing bits of pieces of packaging work for Fedora
 
 ### Misc
 
-- You can email me at [hello@phoebeharris.xyz](mailto:root@phoebeharris.xyz)
+- You can email me at [hello@phoebeharris.xyz](mailto:hello@phoebeharris.xyz)
 - You can message me on Matrix at [@phoebeharris:fedora.im](matrix:u/phoebeharris:fedora.im)
 
 I like going to hacker culture events around Europe! I'll probably be at the 40th Chaos Communications Congress. Catch me there!
